@@ -1,0 +1,4 @@
+.pytest_cache
+.idea
+.py[co]
+*.sqlite3
